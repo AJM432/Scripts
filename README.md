@@ -1,2 +1,2 @@
 # Scripts
-Python scripts
+Contains a list of short Python scripts.
